@@ -3,8 +3,6 @@
 </script>
 
 <div class="card">
-    <img src="me.jpg" alt="" />
-
     <img src={img} alt="Author" />
 
     <h2>Ashfaqur Rahman</h2>
