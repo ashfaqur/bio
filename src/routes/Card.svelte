@@ -3,10 +3,7 @@
 </script>
 
 <div class="card">
-    <img src="me.jpg" alt="" />
-
     <img src={img} alt="Author" />
-
     <h2>Ashfaqur Rahman</h2>
     <h3>Software Developer</h3>
     <h4><i class="fas fa-map-marker-alt fa-1x"></i> Munich, Germany</h4>
