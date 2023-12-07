@@ -15,4 +15,10 @@
         border-radius: 12px;
         width: 100%;
     }
+    @media (min-width: 860px) {
+        .left-panel {
+            margin-right: 0.3rem;
+            height: 100%;
+        }
+    }
 </style>

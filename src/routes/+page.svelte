@@ -19,4 +19,10 @@
         flex-direction: column;
         align-items: center;
     }
+    @media (min-width: 860px) {
+        .container {
+            flex-direction: row;
+            align-items: flex-start;
+        }
+    }
 </style>
