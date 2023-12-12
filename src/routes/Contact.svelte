@@ -1,9 +1,4 @@
 <div class="contact">
-    <a href="#/" class="email"
-        ><i class="fa fa-envelope" aria-hidden="true">
-            ashfaqur.rahman1@gmail.com</i
-        ></a
-    >
     <div class="contact-buttons">
         <a
             target="_blank"
