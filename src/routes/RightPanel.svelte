@@ -201,7 +201,7 @@
             <li>
                 <div class="experience-title">
                     <h4>
-                        <a href="https://www.iutoic-dhaka.edu/"
+                        <a target="_blank" href="https://www.iutoic-dhaka.edu/"
                             >Islamic University of technology</a
                         >
                     </h4>
