@@ -1,9 +1,15 @@
 <script>
     import Card from "./Card.svelte";
+    import Contact from "./Contact.svelte";
+    import Abilities from "./Abilities.svelte";
+    import Language from "./Language.svelte";
 </script>
 
 <div class="left-panel">
     <Card></Card>
+    <Contact></Contact>
+    <Abilities></Abilities>
+    <Language></Language>
 </div>
 
 <style>
